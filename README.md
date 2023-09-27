@@ -18,4 +18,4 @@ Here is an example of running the script with the default values:
 python image_downloader.py
 Image downloaded successfully.
 Copy
-The script will download the image from [this URL] and save it as Cam_Skigebiet_Balderschwang_332.jpg in the current directory. The image is a webcam view of the Balderschwang ski resort in Germany. My friend there needed this sdcript for automatically downloading webcam images every day for timelaps purposes.
+The script will download the image from [this URL] and save it as Cam_Skigebiet_Balderschwang_332.jpg in the current directory. The image is a webcam view of the Balderschwang ski resort in Germany. My friend there needed this script for automatically downloading webcam images every day for timelaps purposes.
